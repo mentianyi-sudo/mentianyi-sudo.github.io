@@ -97,14 +97,23 @@ Benchmark via Experience-Driven Memory for Agent Planning](https://mentianyi-sud
 <div class='paper-box-text' markdown="1">
 
 <span style="color: darkred;">(Agent Planning Survey)</span> [ Large language models for planning: A
-comprehensive and systematic survey](https://arxiv.org/pdf/2505.19683)
+comprehensive and systematic survey](https://arxiv.org/pdf/2505.19683.pdf)
 
 Pengfei Cao, **Tianyi Men**, Wencan Liu, Jingwen Zhang, Xuzhao Li, Xixun Lin, Dianbo Sui, Yanan Cao, Kang Liu, Jun Zhao
 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environment Survey</div><img src='images/environment_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+<span style="color: darkred;">(Environment Survey)</span> [ Agentic Environment Engineering for Large Language Models: A
+Survey of Environment Modeling, Synthesis, Evaluation, and Application](https://arxiv.org/pdf/2606.12191.pdf)
+
+Jiachun Li∗, Zhuoran Jin∗, **Tianyi Men∗**, Yupu Hao∗, Kejian Zhu∗, Lingshuai Wang∗, Dongqi Huang∗, Longxiang Wang∗, Shengjia Hua∗, Lu Wang∗, Jinshan Gao∗, Hongbang Yuan, Ruilin Xu, Kang Liu, Jun Zhao
+
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
