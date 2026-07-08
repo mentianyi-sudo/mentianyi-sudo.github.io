@@ -126,8 +126,6 @@ Zhuoran Jin∗, **Tianyi Men∗**, Hongbang Yuan∗, Zhitao He, Dianbo Sui, Chen
 </div>
 </div>
 
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/none.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -139,8 +137,6 @@ Zhuoran Jin∗, **Tianyi Men∗**, Hongbang Yuan∗, Yuyang Zhou, Pengfei Cao, Y
 </div>
 </div>
 
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/none.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
