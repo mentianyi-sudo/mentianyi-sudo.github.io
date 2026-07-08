@@ -48,7 +48,18 @@ My research interests include LLM Agent, Agent Long-Horizon Planning, Multi-Turn
 <div class='paper-box-text' markdown="1">
 
 <span style="color: darkred;">(CCF-A, ACL 2025 Long Main, SAC Highlights Award, Top 0.5%)</span> [ A Troublemaker with
-Contagious Jailbreak Makes Chaos in Honest Towns](https://aclanthology.org/2025.acl-long.859.pdf)
+Contagious Jailbreak Makes Chaos in Honest Towns](https://aclanthology.org/2024.emnlp-main.440.pdf)
+
+**Tianyi Men**, Pengfei Cao, Zhuoran Jin, Yubo Chen, Kang Liu, Jun Zhao
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Long Main</div><img src='images/ACL_2025_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="color: darkred;">(CCF-B, EMNLP 2024 Long Main)</span> [ Unlocking the Future: Exploring Look-Ahead Planning
+Mechanistic Interpretability in Large Language Models](https://aclanthology.org/2024.emnlp-main.440.pdf)
 
 **Tianyi Men**, Pengfei Cao, Zhuoran Jin, Yubo Chen, Kang Liu, Jun Zhao
 
