@@ -35,7 +35,7 @@ Post-training via Single and Multi Teachers On-Policy Agentic Distillation](http
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Long Main</div><img src='images/ACL_2026.png.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Long Main</div><img src='images/ACL_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="color: darkred;">(CCF-A, ACL 2026 Long Main)</span> [Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning](https://aclanthology.org/2026.acl-long.1670.pdf)
