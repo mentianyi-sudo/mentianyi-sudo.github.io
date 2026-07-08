@@ -28,7 +28,7 @@ My research interests include LLM Agent, Agent Long-Horizon Planning, Multi-Turn
 <div class='paper-box-text' markdown="1">
 
 <span style="color: darkred;">(arXiv 2026 Hot!)</span> [The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to
-Post-training via Single and Multi Teachers On-Policy Agentic Distillation]([https://aclanthology.org/2026.acl-long.1670.pdf](https://mentianyi-sudo.github.io/))
+Post-training via Single and Multi Teachers On-Policy Agentic Distillation](https://mentianyi-sudo.github.io/)
 
 **Tianyi Men**
 
@@ -73,6 +73,21 @@ Contagious Jailbreak Makes Chaos in Honest Towns](https://aclanthology.org/2024.
 Mechanistic Interpretability in Large Language Models](https://aclanthology.org/2024.emnlp-main.440.pdf)
 
 **Tianyi Men**, Pengfei Cao, Zhuoran Jin, Yubo Chen, Kang Liu, Jun Zhao
+
+</div>
+</div>
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">submitted to EMNLP 2026</div><img src='images/EMNLP_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="color: darkred;">(CCF-B, submitted to EMNLP 2026)</span> [ LatencyClockGym: A Latency-Sensitive Decision Making
+Benchmark via Experience-Driven Memory for Agent Planning](https://mentianyi-sudo.github.io/)
+
+**Tianyi Men**, Zhuoran Jin, Kang Liu, Jun Zhao
 
 </div>
 </div>
