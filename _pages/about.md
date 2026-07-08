@@ -32,6 +32,7 @@ My research interests include large language model agents, reinforcement learnin
 **Tianyi Men**, Zhuoran Jin, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
 
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Long Main</div><img src='images/ACL_2025_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
