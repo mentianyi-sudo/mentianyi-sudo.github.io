@@ -115,6 +115,30 @@ Jiachun Li∗, Zhuoran Jin∗, **Tianyi Men∗**, Yupu Hao∗, Kejian Zhu∗, Li
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/none.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="color: darkred;">(ACL 2022)</span> [ CogKGE: A Knowledge Graph Embedding Toolkit and Benchmark for
+Representing Multi-source and Heterogeneous Knowledge](https://aclanthology.org/2022.acl-demo.16.pdf)
+
+Zhuoran Jin∗, **Tianyi Men∗**, Hongbang Yuan∗, Zhitao He, Dianbo Sui, Chenhao Wang, Zhipeng Xue, Yubo Chen, Jun Zhao
+
+</div>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/none.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="color: darkred;">(EMNLP 2022)</span> [ CogKTR: AKnowledge-Enhanced Text Representation Toolkit for Natural Language Understanding](https://aclanthology.org/2022.emnlp-demos.1.pdf)
+
+Zhuoran Jin∗, **Tianyi Men∗**, Hongbang Yuan∗, Yuyang Zhou, Pengfei Cao, Yubo Chen, Zhipeng Xue, Kang Liu, Jun Zhao
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
