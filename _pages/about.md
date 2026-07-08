@@ -152,10 +152,11 @@ Zhuoran Jin, Hongbang Yuan, **Tianyi Men**, Pengfei Cao, Yubo Chen, Jiexin Xu, H
 
 # 🎖 Honors and Awards
 - *2025* CCF-A, ACL 2025 SAC Highlights Award (First Author, Top 0.5%)
+-  2022 Ranked 2nd out of 309 in Undergraduate, GPA 3.9/4.0 (Top 0.6%)
 - *2019* National Scholarship (Top 1%)
 - *2023, 2024* Merit Student, University of Chinese Academy of Sciences
 - *2019, 2020* Merit Student, Xidian University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - Present (now), Ph.D.* in Computer Science, Institute of Automation, Chinese Academy of Sciences (University of Chinese Academy of Sciences).
+- *2018.09 - 2022.06, B.E.* in Intelligent Science and Technology(Artificial Intelligence), School of Artificial Intelligence, Xidian University.
