@@ -139,6 +139,20 @@ Zhuoran Jin∗, **Tianyi Men∗**, Hongbang Yuan∗, Yuyang Zhou, Pengfei Cao, Y
 </div>
 </div>
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/none.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="color: darkred;">(ACL 2025 Findings)</span> [ RAG-RewardBench: Benchmarking Reward Models in
+Retrieval Augmented Generation for Preference Alignment](https://aclanthology.org/2025.findings-acl.877.pdf)
+
+Zhuoran Jin, Hongbang Yuan, **Tianyi Men**, Pengfei Cao, Yubo Chen, Jiexin Xu, Huaijun Li, Xiaojian Jiang, Kang Liu, Jun Zhao
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
