@@ -93,6 +93,18 @@ Benchmark via Experience-Driven Memory for Agent Planning](https://mentianyi-sud
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Agent Planning Survey</div><img src='images/agent_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="color: darkred;">(Agent Planning Survey)</span> [ Large language models for planning: A
+comprehensive and systematic survey](https://arxiv.org/pdf/2505.19683)
+
+Pengfei Cao, **Tianyi Men**, Wencan Liu, Jingwen Zhang, Xuzhao Li, Xixun Lin, Dianbo Sui, Yanan Cao, Kang Liu, Jun Zhao
+
+</div>
+</div>
+
+
 
 
 # 🎖 Honors and Awards
