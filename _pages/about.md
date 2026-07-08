@@ -151,8 +151,10 @@ Zhuoran Jin, Hongbang Yuan, **Tianyi Men**, Pengfei Cao, Yubo Chen, Jiexin Xu, H
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* CCF-A, ACL 2025 SAC Highlights Award (First Author, Top 0.5%)
+- *2019* National Scholarship (Top 1%)
+- *2023, 2024* Merit Student, University of Chinese Academy of Sciences
+- *2019, 2020* Merit Student, Xidian University
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
