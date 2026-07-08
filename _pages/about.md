@@ -24,10 +24,18 @@ My research interests include large language model agents, reinforcement learnin
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main</div><img src='images/ACL_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Long Main</div><img src='images/ACL_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="color: darkred;">(CCF-A, ACL 2026 Long Main)</span> [Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning](https://aclanthology.org/2026.acl-long.1670.pdf)
+
+**Tianyi Men**, Zhuoran Jin, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Long Main</div><img src='images/ACL_2025_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="color: darkred;">(CCF-A, ACL 2025 Long Main)</span> [Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents](https://aclanthology.org/2025.acl-long.857.pdf)
 
 **Tianyi Men**, Zhuoran Jin, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
 
